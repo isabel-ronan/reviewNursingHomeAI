@@ -2,7 +2,8 @@
 
 This repository houses all code for the paper, 'Towards Artificially Intelligent Nursing Homes: A Scoping Review of Palliative Interventions.' The most recent version of the paper can be found in this repository under the 'article' folder. 
 
-## A Couple of Key Points 
+
+## A Couple of Key Points
 - Python version 3.12.3 was used.
 - Pip version 24.0 was used.
 - All necessary packages are included in requirements.txt
@@ -18,7 +19,8 @@ This repository houses all code for the paper, 'Towards Artificially Intelligent
 - End-User involvement is needed in system development and evaluation processes.
 - There is no standard definition of palliative care.
 
-## Potential Moves Forward 
+
+## Potential Moves Forward 
 - Synthetic data generation to combat issues surrounding data availability issues. 
 - A move towards palliative tools as opposed to emotional aids (ACP Family Meeting Smart Glasses Transcriber). 
 - Using nurse notes and free-text data in decision support systems as an internationally-applicable form of data. 
