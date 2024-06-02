@@ -24,3 +24,4 @@ This repository houses all code for the paper, 'Towards Artificially Intelligent
 - Synthetic data generation to combat issues surrounding data availability issues. 
 - A move towards palliative tools as opposed to emotional aids (ACP Family Meeting Smart Glasses Transcriber). 
 - Using nurse notes and free-text data in decision support systems as an internationally-applicable form of data. 
+- Palliative care definitions should be included in future work.
