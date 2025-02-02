@@ -1,6 +1,6 @@
-# Towards Artificially Intelligent Nursing Homes: A Scoping Review of Palliative Interventions
+# Artificially Intelligent Nursing Homes: A Scoping Review of Palliative Care Interventions
 
-This repository houses all code for the paper, 'Towards Artificially Intelligent Nursing Homes: A Scoping Review of Palliative Interventions.'
+This repository houses all code for the paper, 'Artificially Intelligent Nursing Homes: A Scoping Review of Palliative Care Interventions'. 
 
 ## A Couple of Key Points
 
